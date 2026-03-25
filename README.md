@@ -1,4 +1,5 @@
-e˙ANDROID CHALLENGEWeather Search using MVVM + Open-Meteo
+ANDROID CHALLENGE - Weather Search using MVVM + Open-Meteo
+
 Objective
 Build a small Android component that allows the user to search for a city and display its current weather information.
 The focus is on architecture, async search logic, state handling and ViewModel design, more than UI styling.
